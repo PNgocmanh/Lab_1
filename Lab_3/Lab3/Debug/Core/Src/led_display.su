@@ -1,0 +1,7 @@
+led_display.c:15:6:display7SEG	24	static
+led_display.c:111:6:traffic_light	24	static
+led_display.c:131:6:traffic_light_4	24	static
+led_display.c:142:6:mode_1	32	static
+led_display.c:161:6:mode_2	32	static
+led_display.c:176:6:mode_3	32	static
+led_display.c:191:6:mode_4	32	static
